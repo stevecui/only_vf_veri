@@ -1,0 +1,1 @@
+cmd_/home/steve/lis-master_good/lis-next/hv-rhel6.x/hv/hv_storvsc.o := ld -m elf_x86_64   -r -o /home/steve/lis-master_good/lis-next/hv-rhel6.x/hv/hv_storvsc.o /home/steve/lis-master_good/lis-next/hv-rhel6.x/hv/storvsc_drv.o ; scripts/mod/modpost /home/steve/lis-master_good/lis-next/hv-rhel6.x/hv/hv_storvsc.o

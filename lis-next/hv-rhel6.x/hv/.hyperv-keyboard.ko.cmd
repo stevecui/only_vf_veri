@@ -1,0 +1,1 @@
+cmd_/home/steve/lis-master_good/lis-next/hv-rhel6.x/hv/hyperv-keyboard.ko := cp /home/steve/lis-master_good/lis-next/hv-rhel6.x/hv/hyperv-keyboard.ko.unsigned /home/steve/lis-master_good/lis-next/hv-rhel6.x/hv/hyperv-keyboard.ko
